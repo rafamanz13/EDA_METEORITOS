@@ -1,0 +1,38 @@
+DATASETS:
+
+NASA: https://www.kaggle.com/nasa/meteorite-landings
+
+IMO: https://www.imo.net/members/imo_vmdb/obs_for_year/
+
+METEORITICAL SOCIETY: https://www.lpi.usra.edu/meteor/ (DESCARTADO!!!)
+
+----------------------------------------------------------------------------------------------------------
+
+CURIOSIDADES:
+
+https://www.nationalgeographic.org/encyclopedia/meteorite/
+
+https://astroaficion.com/2018/08/10/diferencia-entre-meteoritos-meteoroides-y-meteoros/
+
+https://es.wikipedia.org/wiki/Perseidas
+
+https://es.wikipedia.org/wiki/Le%C3%B3nidas_(astronom%C3%ADa)
+
+https://es.wikipedia.org/wiki/Meteorito_Hoba
+
+https://pixabay.com/es/photos/el-cr%c3%a1ter-del-meteorito-de-arizona-2928289/
+
+https://www.bbc.com/mundo/noticias-37354277
+
+https://www.lainformacion.com/opinion/strambotic/asi-se-te-queda-el-coche-cuando-le-cae-un-meteorito/14622/
+
+https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_meteoritos#Clasificaci%C3%B3n_por_meteorizaci%C3%B3n
+
+https://es.wikipedia.org/wiki/Condrita#Condritas_carbon%C3%A1ceas
+
+https://www.abc.es/ciencia/20130301/abci-hallan-enorme-meteorito-kilos-201303011309.html
+
+https://es.wikipedia.org/wiki/ALH84001
+
+
+
